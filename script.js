@@ -7,6 +7,6 @@ document.getElementById('verifyButton').addEventListener('click', function() {
     button.textContent = 'Verified';
     // Перенаправление на указанный URL
     setTimeout(function() {
-        window.location.href = 'https://iplogger.com/2vKtS6';
+        window.location.href = '';
     }, 300); // Задержка 300 мс для плавного перехода
 });
